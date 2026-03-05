@@ -1,0 +1,2 @@
+# backgrounds
+Static background images
